@@ -5,7 +5,7 @@ import "./global.css";
 const index = () => {
   return (
     <View>
-      <Text className='text-3xl'>index</Text>
+      <Text className='text-3xl flex justify-center'>index</Text>
     </View>
   )
 }
